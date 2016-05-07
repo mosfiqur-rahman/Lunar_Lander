@@ -1,0 +1,21 @@
+LUNAR LANDER INSTRUCTIONS
+
+You are landing on the moon and have taken over manual
+control 1000 feet above a good landing spot.  You have a
+downward velocity of 50 feet/sec.  150 units of fuel remain.
+
+Here are the rules that govern your $SPACECRAFT space-craft:
+ (1) After each second, the height, velocity, and remaining
+     fuel will be reported via DIGBY, your on-board computer.
+ (2) After each report, enter the number of units of fuel you
+     wish to burn during the next second.  Each unit of fuel
+     will slow your descent by 1 foot/sec.
+ (3) The maximum thrust of your engine is 30 feet/sec/sec or
+     0 units of fuel per second.
+ (4) When you contact the lunar surface, your descent engine
+     will automatically shut down and you will be given a 
+     report of your landing speed and remaining fuel.
+ (5) If you run out of fuel, you will no longer be prompted
+     to enter the number of units to burn each second.  Your
+     second by second reports will continue until you contact
+     the lunar surface.

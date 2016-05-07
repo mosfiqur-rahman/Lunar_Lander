@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457757696 source:c:\users\mushf\desktop\c++\hw_5\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<fstream>
+	<algorithm>
+
